@@ -1,6 +1,7 @@
 # Implementation of Personalized Pairwise Novelty Weighting (PPNW)
 
 
+
 This is an implementation of PPNW for **"Knowledge and Information Systems 2020 (Springer)"**:
 ```
 Kachun Lo, Tsukasa Ishigaki, "PPNW: Personalized Pairwise Novelty Loss Weighting for Novel Recommendation"
