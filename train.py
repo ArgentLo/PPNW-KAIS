@@ -1,6 +1,5 @@
 '''
-Original Author: Travis A. Ebesu
-Modified: Kachun Lo
+Author: Kachun Lo
 '''
 
 import os
