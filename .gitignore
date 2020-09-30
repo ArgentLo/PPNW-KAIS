@@ -6,7 +6,6 @@ settings.json
 .ipynb_checkpoints
 .ipynb_checkpoints/*
 
-
 # training models
 checkpoints/
 node_submissions/
