@@ -1,9 +1,10 @@
 '''
 Author: Kachun Lo
-A simple implementation of Personalized Ranking Adaptation(PRA).
+Implementation of Personalized Ranking Adaptation(PRA).
     'https://dl.acm.org/citation.cfm?id=3087993.3088031'
 Using Popularity Version and mean-std meature.
 '''
+
 import random
 import numpy as np
 
