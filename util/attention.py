@@ -1,5 +1,5 @@
 '''
-Original Author: Travis A. Ebesu
+Original: Travis A. Ebesu
 Modified: Kachun Lo
 '''
 
