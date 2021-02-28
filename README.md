@@ -14,8 +14,6 @@ In this repository, all the following parts are included to **support reproducti
   - The proposed **PPNW Framework**.
   - **Quick Start** instruction for Pre-training & Training.
 
-This repository uses the accuracy-focused Base Model (**CMN**): https://arxiv.org/pdf/1804.10862.pdf
-
 ----
  
 ### Recommended Environment
@@ -54,14 +52,14 @@ Please **download** the preprocessed datasets before runnning the code.
 To help get started smoothly, we provide default settings of PPNW for pretraining and training.
 
 
-#### Pretraining on GMF (CMN required)
+#### Pretraining on General Matrix Factorization (GMF)
 
 ```shell
 sh pretrain.sh
 ```
 - Use/Not Use "Novelty Weighting" by setting `--use_unpop_weight` in `pretrain.sh`.
 
-#### Training Base Model with PPNW
+#### Training Base Model (CMN) with PPNW
 
 ```shell
 sh train.sh
