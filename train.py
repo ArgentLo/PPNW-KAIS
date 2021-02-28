@@ -1,7 +1,3 @@
-'''
-Author: Kachun Lo
-'''
-
 import os
 import argparse
 from util.helper import get_optimizer_argparse, preprocess_args, create_exp_directory, BaseConfig, get_logging_config
