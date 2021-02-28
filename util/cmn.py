@@ -1,3 +1,8 @@
+'''
+Author:   Travis A. Ebesu
+'''
+
+
 import sonnet as snt
 import tensorflow as tf
 from util.helper import GraphKeys, add_to_collection
