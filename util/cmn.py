@@ -1,7 +1,7 @@
 '''
-Author:   Travis A. Ebesu
+Original: Travis A. Ebesu
+Modified: Kachun Lo
 '''
-
 
 import sonnet as snt
 import tensorflow as tf
