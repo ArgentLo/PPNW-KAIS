@@ -7,9 +7,9 @@ This is an implementation of PPNW for **"Knowledge and Information Systems (Spri
 Kachun Lo, Tsukasa Ishigaki, "PPNW: Personalized Pairwise Novelty Loss Weighting for Novel Recommendation"
 ```
 
-<div style="text-align:center">
-<img src="https://github.com/ArgentLo/PPNW-KAIS/blob/master/PPNW_structure.png" width="440" height="431"/>
-</div>
+
+<img align="center" src="https://github.com/ArgentLo/PPNW-KAIS/blob/master/PPNW_structure.png" width="440" height="431"/>
+
 
 
 In this repository, all the following parts are included to **support reproductivity** of the manuscript.
