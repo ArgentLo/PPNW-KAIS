@@ -8,7 +8,7 @@ Kachun Lo, Tsukasa Ishigaki, "PPNW: Personalized Pairwise Novelty Loss Weighting
 ```
 
 
-<img align="center" src="https://github.com/ArgentLo/PPNW-KAIS/blob/master/PPNW_structure.png" width="440" height="431"/>
+<img align="centering" src="https://github.com/ArgentLo/PPNW-KAIS/blob/master/PPNW_structure.png" width="440" height="431"/>
 
 
 
