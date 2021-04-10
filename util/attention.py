@@ -1,8 +1,3 @@
-'''
-Original: Travis A. Ebesu
-Modified: Kachun Lo
-'''
-
 import tensorflow as tf
 import sonnet as snt
 from .helper import GraphKeys
