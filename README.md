@@ -2,7 +2,7 @@
 
 
 
-This is an implementation of PPNW for **"Knowledge and Information Systems (Springer)"**:
+This is an implementation of **[our paper PPNW](https://link.springer.com/article/10.1007/s10115-021-01546-8)** for **"Knowledge and Information Systems (Springer)"**:
 ```
 Kachun Lo, Tsukasa Ishigaki, "PPNW: Personalized Pairwise Novelty Loss Weighting for Novel Recommendation"
 ```
